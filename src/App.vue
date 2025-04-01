@@ -1,0 +1,20 @@
+<script setup lang="ts">
+import { RouterView } from "vue-router";
+</script>
+
+<template>
+  <div class="app-container">
+    <RouterView />
+  </div>
+</template>
+
+<style scoped>
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+</style>
