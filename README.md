@@ -1,5 +1,30 @@
-# Vue 3 + TypeScript + Vite
+# 🧨 Vue Minesweeper
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Игра "Сапёр", реализованная на Vue 3 + TypeScript.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## ⚙️ Функциональность
+
+- Выбор уровня сложности
+- Игровое поле с минами и флагами
+- Поддержка мобильных устройств
+- Таблица лидеров (хранится в Local Storage)
+- Таймер, счётчик мин, перезапуск игры
+- Поддержка правого/среднего клика и длинного тапа
+
+## 📦 Стек
+
+- Vue 3 + TypeScript
+- Pinia
+- Bootstrap
+- Vue Router
+- Local Storage
+
+## 📸 Скриншоты
+
+![image](https://github.com/user-attachments/assets/a54286e7-c6f5-4636-ab08-2ffb559c23c0)
+
+
+## 🚀 Запуск
+
+npm install
+npm run dev
