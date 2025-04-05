@@ -28,7 +28,7 @@
 Страница игры
 ![image](https://github.com/user-attachments/assets/ae86a563-c1f6-477c-b08b-71e231cc04ad)
 Страница лидеров по времени
-![image](https://github.com/user-attachments/assets/6bcf38be-d089-446f-82bf-35577796e3b7)
+![image](https://github.com/user-attachments/assets/c15ffdc0-6e3d-4fff-b912-0ce81a9621e4)
 
 ## 🚀 Запуск
 
