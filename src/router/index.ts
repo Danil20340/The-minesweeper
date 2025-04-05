@@ -6,7 +6,7 @@ import Leaderboard from '@/pages/Leaderboard.vue'
 const routes = [
   { path: '/', component: Home },
   { path: '/game', component: Game },
-  // { path: '/leaderboard', component: Leaderboard }
+  { path: '/leaderboard', component: Leaderboard }
 ]
 
 export const router = createRouter({
